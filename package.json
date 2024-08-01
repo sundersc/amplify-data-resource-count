@@ -1,0 +1,27 @@
+{
+  "name": "@sundersc/amplify-data-resource-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundersc/amplify-data-resource-count.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sundersc/amplify-data-resource-count/issues"
+  },
+  "homepage": "https://github.com/sundersc/amplify-data-resource-count#readme",
+  "bin": {
+    "amplify-data-resource-count": "./lib/index.js"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4",
+    "@types/node": "20.0.0"
+  }
+}
